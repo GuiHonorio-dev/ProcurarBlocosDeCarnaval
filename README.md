@@ -4,10 +4,5 @@
 
 <img src="presset.png" />
 
-<h2>🚀 Tecnologias</h2>
-* HTML
-* CSS
-* Flex e Grid
-* Phosphor Icons
-* Item 3
+
 
